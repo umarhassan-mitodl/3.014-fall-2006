@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-014-materials-laboratory-fall-2006/98d70d8d60a5baee8ca5836897b0b9b0_a3_supercool.pdf
 file_size: 131892
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

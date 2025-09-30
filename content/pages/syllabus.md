@@ -2,6 +2,8 @@
 content_type: page
 description: The syllabus section provides an introduction to the subject and information
   about safety, lab notebooks, lab reports, grading, and collaboration policy.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

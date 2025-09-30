@@ -2,6 +2,8 @@
 content_type: page
 description: This section summarizes the structure and goals of the class labs, and
   presents the background notes for most experiments.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection

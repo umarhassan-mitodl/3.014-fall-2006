@@ -5,6 +5,8 @@ description: This resource discusses the guidelines for writing reports in journ
 file: /courses/3-014-materials-laboratory-fall-2006/c747082a98bea1c53a1a95cf7b10c5bb_w3_journal_formt.pdf
 file_size: 11864
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

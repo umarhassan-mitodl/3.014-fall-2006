@@ -5,6 +5,8 @@ description: This resource discusses the grading approach for the reports of pos
 file: /courses/3-014-materials-laboratory-fall-2006/1af9023fcc3e3ec9be56214a1202ae31_wk2_poster_gradn.pdf
 file_size: 56933
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

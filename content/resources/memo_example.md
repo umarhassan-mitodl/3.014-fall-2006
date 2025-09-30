@@ -4,6 +4,8 @@ description: Sample completed memo for the Week 4 Memo assignment.
 file: /courses/3-014-materials-laboratory-fall-2006/e0f3e1ddc46a1e3da687c50f1247b105_memo_example.pdf
 file_size: 55140
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

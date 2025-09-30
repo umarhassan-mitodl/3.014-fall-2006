@@ -5,6 +5,8 @@ description: This resource discusses the experiment polymer chains as entropy sp
 file: /courses/3-014-materials-laboratory-fall-2006/2f38f39cbcfa3cb79a08be8565790cb9_a1_rubbrelastcty.pdf
 file_size: 899908
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

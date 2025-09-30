@@ -4,6 +4,8 @@ description: Formatting guidelines for the Week 4 Memo assignment.
 file: /courses/3-014-materials-laboratory-fall-2006/7040f6108220e1be356eb0910563e235_memo_format.pdf
 file_size: 10028
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

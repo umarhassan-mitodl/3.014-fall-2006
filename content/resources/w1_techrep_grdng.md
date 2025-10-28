@@ -4,8 +4,6 @@ description: This resource discusses the grading approach for the reports of exp
 file: /courses/3-014-materials-laboratory-fall-2006/35e510d9a77bce2f0f1ff25a274de1f4_w1_techrep_grdng.pdf
 file_size: 62760
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

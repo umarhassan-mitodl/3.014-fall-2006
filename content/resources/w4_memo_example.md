@@ -4,8 +4,6 @@ description: This resource is an example for writing memo for final exam.
 file: /courses/3-014-materials-laboratory-fall-2006/e0cf77ca7b272bba863f6d99191001c1_w4_memo_example.pdf
 file_size: 49132
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource discusses the grading approach for the reports of mem
 file: /courses/3-014-materials-laboratory-fall-2006/346244213ae5ec974b459f21e82b42e0_wk4_memo_grading.pdf
 file_size: 67732
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

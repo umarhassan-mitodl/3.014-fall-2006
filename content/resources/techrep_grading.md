@@ -4,8 +4,6 @@ description: Grading guidelines for the Week 3 Technical Report assignment.
 file: /courses/3-014-materials-laboratory-fall-2006/898088c4b612b3355632d4708d28f071_techrep_grading.pdf
 file_size: 68794
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

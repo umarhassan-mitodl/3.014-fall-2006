@@ -4,8 +4,6 @@ description: ''
 file: /courses/3-014-materials-laboratory-fall-2006/ee754dd83ab8601d0e03c05ba2f614e1_g1_bonding.pdf
 file_size: 343910
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

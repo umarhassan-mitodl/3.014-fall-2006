@@ -4,8 +4,6 @@ description: This resource dicusses the format guidelines for the technical repo
 file: /courses/3-014-materials-laboratory-fall-2006/cf3f5887f61b42c07e3764543d0169ba_w1_techrep_formt.pdf
 file_size: 67664
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

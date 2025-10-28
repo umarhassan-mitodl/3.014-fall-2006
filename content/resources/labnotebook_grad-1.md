@@ -4,8 +4,6 @@ description: ''
 file: /courses/3-014-materials-laboratory-fall-2006/f1be2dcac6d84a5ee755dca52f22eaea_labnotebook_grad.pdf
 file_size: 10264
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

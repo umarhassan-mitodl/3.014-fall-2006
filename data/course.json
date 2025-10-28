@@ -34,7 +34,6 @@
     "website": "3-014-materials-laboratory-fall-2006"
   },
   "course_title": "Materials Laboratory",
-  "hide_download": true,
   "course_description": "This course is a required sophomore subject in the Department of Materials Science and Engineering, designed to be taken in conjunction with the core lecture subject [3.012](/courses/3-012-fundamentals-of-materials-science-fall-2005) Fundamentals of Materials Science and Engineering. The laboratory subject combines experiments illustrating the principles of quantum mechanics, thermodynamics and structure with intensive oral and written technical communication practice. Specific topics include: experimental exploration of the connections between energetics, bonding and structure of materials, and application of these principles in instruments for materials characterization; demonstration of the wave-like nature of electrons; hands-on experience with techniques to quantify energy (DSC), bonding (XPS, AES, FTIR, UV/Vis and force spectroscopy), and degree of order (x-ray scattering) in condensed matter; and investigation of structural transitions and structure-property relationships through practical materials examples.\n\nProfessor Anne Mayes led the development and teaching of this course in prior years.\n",
   "department_numbers": [
     "3"
@@ -45,7 +44,6 @@
     "content": "9bfb01ed-568a-b13b-9330-cc34b40eb4f1",
     "website": "3-014-materials-laboratory-fall-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Image Gallery",
     "Lecture Videos",
